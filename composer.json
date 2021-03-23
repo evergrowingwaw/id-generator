@@ -1,0 +1,14 @@
+{
+    "name": "ave/id-generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sebastian Arczewski",
+            "email": "s.arczewski@gmail.com"
+        }
+    ],
+    "description": "Continuous Id generator",
+    "autoload": {
+        "psr-4": {"Ave\\IdGenerator\\": "src/"}
+    }
+}
